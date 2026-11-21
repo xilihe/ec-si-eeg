@@ -1,0 +1,66 @@
+{
+  "faced": {
+    "subject_folds": [
+      2,
+      3,
+      4,
+      5
+    ],
+    "stimulus_folds": [
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11,
+      12
+    ],
+    "seeds": [
+      20260812,
+      20260813,
+      20260814
+    ],
+    "subject_split_seed": 20260811,
+    "conditions": [
+      "standard",
+      0.1,
+      0.3,
+      1.0,
+      3.0
+    ],
+    "fits": 1188,
+    "participants": 98
+  },
+  "seed_binary": {
+    "subject_folds": [
+      2,
+      3,
+      4,
+      5
+    ],
+    "stimulus_folds": [
+      2,
+      3,
+      4,
+      5
+    ],
+    "seeds": [
+      20260817,
+      20260818,
+      20260819
+    ],
+    "subject_split_seed": 20260817,
+    "stimulus_split_seed": 20260818,
+    "conditions": [
+      "standard",
+      0.1,
+      0.3,
+      1.0,
+      3.0
+    ],
+    "fits": 528,
+    "participants": 12
+  }
+}

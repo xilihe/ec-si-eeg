@@ -1,0 +1,13 @@
+{
+  "status": "PASS",
+  "source_sha256": "f1db652f5f5b2501f7b697e81cbe1838d1a0b2d7abd818e43cd87530d2538fda",
+  "input_validation_sha256": "de7203806d64a93d07599b801c7a5bbf871baf62563f6ac37f69b5b987f93def",
+  "source_curve_unseen_classification_reproduced": true,
+  "faced_unprojected_probe_reproduced": true,
+  "seed_projection_probe_aggregation": "clip_equal_within_category_not_original_run_equal",
+  "cells_checked": 11010,
+  "independent_summary_intervals": 507,
+  "all_156_projection_fits_orthonormal": true,
+  "full_1716_unique_fit_coverage": true,
+  "scope": "Independent arithmetic, source-score consistency and saved transform audit; not a fresh model training run"
+}

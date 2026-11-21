@@ -1,0 +1,29 @@
+video_index,duration_seconds,source_film,source_database,targeted_valence,targeted_emotion,emotion_id,valence_id
+1,81,The Tokyo Trial,DCEF,Negative,Anger,0,-1
+2,64,Documentary about the Nanjing Massacre,THU-EP,Negative,Anger,0,-1
+3,73,City of Life and Death,DCEF,Negative,Anger,0,-1
+4,79,Trainspotting,FilmStim,Negative,Disgust,1,-1
+5,69,Indiana Jones and the Last Crusade,FilmStim,Negative,Disgust,1,-1
+6,91,Hellraiser,FilmStim,Negative,Disgust,1,-1
+7,56,The Shining,FilmStim,Negative,Fear,2,-1
+8,60,The Shining,,Negative,Fear,2,-1
+9,106,The Exorcist,FilmStim,Negative,Fear,2,-1
+10,45,In Bruges,PED,Negative,Sadness,3,-1
+11,60,Departures,PED,Negative,Sadness,3,-1
+12,82,Gangs of New York,PED,Negative,Sadness,3,-1
+13,35,Blue,FilmStim,Neutral,Neutral,4,0
+14,44,Blue,FilmStim,Neutral,Neutral,4,0
+15,39,Blue,FilmStim,Neutral,Neutral,4,0
+16,43,Blue,FilmStim,Neutral,Neutral,4,0
+17,56,Modern Times,PED,Positive,Amusement,5,1
+18,70,Minions,PED,Positive,Amusement,5,1
+19,73,Mr. Bean,PED,Positive,Amusement,5,1
+20,129,Forrest Gump,PED,Positive,Inspiration,6,1
+21,77,The Theory of Everything,PED,Positive,Inspiration,6,1
+22,76,The Shawshank Redemption,PED,Positive,Inspiration,6,1
+23,34,My Neighbor Totoro,PED,Positive,Joy,7,1
+24,37,Night at the Museum III,PED,Positive,Joy,7,1
+25,68,Harry Potter I,PED,Positive,Joy,7,1
+26,63,The Pursuit of Happiness,PED,Positive,Tenderness,8,1
+27,54,Juno,PED,Positive,Tenderness,8,1
+28,77,Sex and the City II,PED,Positive,Tenderness,8,1
