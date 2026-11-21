@@ -233,5 +233,10 @@
     "path": "results/complete_curves/comparisons_forty.csv",
     "sha256": "c71ca1eb9ca5195b504ad1cd548905eda27afd6e8701d0689fb5eba6154b40d2",
     "lineage": "retained_executed_source"
+  },
+  {
+    "path": "analysis/reproduce_complete_curves.py",
+    "sha256": "b0a37f4d47ccec540ccc6f5d93630ec44043b8889e21a049d1ba50817dead643",
+    "lineage": "portable_entrypoint_using_retained_per_bundle_audits_and_frozen_statistics"
   }
 ]

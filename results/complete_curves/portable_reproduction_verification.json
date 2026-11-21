@@ -1,0 +1,101 @@
+{
+  "status": "PASS",
+  "files": 13,
+  "numeric_cells": 59595,
+  "original_fixed_statistics_reproduced": true,
+  "scope": "Existing audited real components through new portable aggregation; no fresh model training",
+  "source_sha256": "b0a37f4d47ccec540ccc6f5d93630ec44043b8889e21a049d1ba50817dead643",
+  "tables": [
+    {
+      "file": "analysis_faced/comparisons_twenty.csv",
+      "rows": 20,
+      "numeric_cells": 200,
+      "original_sha256": "cebb49ea91d5206ed614840eaff2f6fdada9b50026c7b96d9740eac2bfa085d1",
+      "reproduced_sha256": "cebb49ea91d5206ed614840eaff2f6fdada9b50026c7b96d9740eac2bfa085d1"
+    },
+    {
+      "file": "analysis_faced/condition_summary.csv",
+      "rows": 11,
+      "numeric_cells": 407,
+      "original_sha256": "4be1a7854ed151d7656a0b9d3f4bbe0d71206807712d0cbd9521315ad606134b",
+      "reproduced_sha256": "4be1a7854ed151d7656a0b9d3f4bbe0d71206807712d0cbd9521315ad606134b"
+    },
+    {
+      "file": "analysis_faced/single_video_influence_contrasts.csv",
+      "rows": 560,
+      "numeric_cells": 1120,
+      "original_sha256": "ceb401e8eb2e3419a0e80d1fa18c61934c0ec38e026ab68d12b0c72611dff359",
+      "reproduced_sha256": "ceb401e8eb2e3419a0e80d1fa18c61934c0ec38e026ab68d12b0c72611dff359"
+    },
+    {
+      "file": "analysis_faced/single_video_influence_summary.csv",
+      "rows": 308,
+      "numeric_cells": 1232,
+      "original_sha256": "c0def03d4453f9ba5d37260431b297486d23beccc22c427dc9b479a929cbc5e0",
+      "reproduced_sha256": "c0def03d4453f9ba5d37260431b297486d23beccc22c427dc9b479a929cbc5e0"
+    },
+    {
+      "file": "analysis_faced/stability_ranges.csv",
+      "rows": 40,
+      "numeric_cells": 240,
+      "original_sha256": "07c166759b5e24d514309025cf21cf95cca2bdaf572e7671e474f4ea207801c1",
+      "reproduced_sha256": "07c166759b5e24d514309025cf21cf95cca2bdaf572e7671e474f4ea207801c1"
+    },
+    {
+      "file": "analysis_faced/stimulus_partition_contrasts.csv",
+      "rows": 180,
+      "numeric_cells": 360,
+      "original_sha256": "1f7f335702a87093ca821645822fb05b78505a8bd96acde69e7393a6cf361942",
+      "reproduced_sha256": "1f7f335702a87093ca821645822fb05b78505a8bd96acde69e7393a6cf361942"
+    },
+    {
+      "file": "analysis_faced/stimulus_partition_subject_scores.csv",
+      "rows": 9702,
+      "numeric_cells": 38808,
+      "original_sha256": "0ebb6fb339dc48e6b762f18cbafe919ae47bc02e80a799f6d2074c8571454713",
+      "reproduced_sha256": "0ebb6fb339dc48e6b762f18cbafe919ae47bc02e80a799f6d2074c8571454713"
+    },
+    {
+      "file": "analysis_faced/stimulus_partition_summary.csv",
+      "rows": 99,
+      "numeric_cells": 396,
+      "original_sha256": "558c556f4bbf8e4c9e913f4ddf64ce511b2216f47a62b73bfe902c3d0a7ed1ae",
+      "reproduced_sha256": "558c556f4bbf8e4c9e913f4ddf64ce511b2216f47a62b73bfe902c3d0a7ed1ae"
+    },
+    {
+      "file": "analysis_faced/subject_scores.csv",
+      "rows": 1078,
+      "numeric_cells": 15092,
+      "original_sha256": "dabcdb47b174feaaa6635c201efa1f422f18784052c1218c4535dc913138f068",
+      "reproduced_sha256": "dabcdb47b174feaaa6635c201efa1f422f18784052c1218c4535dc913138f068"
+    },
+    {
+      "file": "analysis_seed_binary/comparisons_twenty.csv",
+      "rows": 20,
+      "numeric_cells": 200,
+      "original_sha256": "7fb7c08315ae8b0767bf92a7e9e9237127d32ef33e43eb01db924dd63618fc4b",
+      "reproduced_sha256": "7fb7c08315ae8b0767bf92a7e9e9237127d32ef33e43eb01db924dd63618fc4b"
+    },
+    {
+      "file": "analysis_seed_binary/condition_summary.csv",
+      "rows": 11,
+      "numeric_cells": 176,
+      "original_sha256": "ec710f9c3d3215a6f8d6861155f56c50c5be492b2c855a5f9e5ec309b0b6aae8",
+      "reproduced_sha256": "ec710f9c3d3215a6f8d6861155f56c50c5be492b2c855a5f9e5ec309b0b6aae8"
+    },
+    {
+      "file": "analysis_seed_binary/subject_scores.csv",
+      "rows": 132,
+      "numeric_cells": 924,
+      "original_sha256": "d1683dc54cf8e48c54eff87ddb987cb5f0cb13b01b3244a336b25678fa6dc15c",
+      "reproduced_sha256": "d1683dc54cf8e48c54eff87ddb987cb5f0cb13b01b3244a336b25678fa6dc15c"
+    },
+    {
+      "file": "comparisons_forty.csv",
+      "rows": 40,
+      "numeric_cells": 440,
+      "original_sha256": "c71ca1eb9ca5195b504ad1cd548905eda27afd6e8701d0689fb5eba6154b40d2",
+      "reproduced_sha256": "c71ca1eb9ca5195b504ad1cd548905eda27afd6e8701d0689fb5eba6154b40d2"
+    }
+  ]
+}

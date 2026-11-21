@@ -1,10 +1,16 @@
 {
-  "status": "PASS_STATIC_AND_DRY_RUN",
-  "python_files": 39,
+  "status": "STATIC_CLI_AND_PORTABLE_STATISTICS_PASS",
+  "python_files": 40,
   "restricted_files": [],
   "dry_runs": 10,
-  "public_upload_status": "NOT_PUBLISHED",
   "fresh_training_claim": false,
   "group_result_csv_files": 13,
-  "independent_analysis_status": "PASS"
+  "independent_analysis_status": "PASS",
+  "validation_stage": "Pre-final-publication package verification",
+  "actual_training_entrypoints_loaded": 16,
+  "initial_publication_commit": "e96d0787582b6da74dd6c691bd27e0c38b1129b4",
+  "initial_publication_files_byte_verified": 66,
+  "portable_statistics_numeric_cells_reproduced": 59595,
+  "portable_statistics_validation_mode": "aggregate_existing_audited_real_components",
+  "portable_statistics_source_sha256": "b0a37f4d47ccec540ccc6f5d93630ec44043b8889e21a049d1ba50817dead643"
 }
